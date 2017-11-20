@@ -11,15 +11,12 @@ import java.util.Date;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Objects;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.OneToMany;
 
 /**
  *
  * @author asillero
  */
-@Entity
+
 public class Persona implements Serializable {
 
     private String nif;
@@ -53,7 +50,7 @@ public class Persona implements Serializable {
         return misCoches.remove(c);
     }
 
-    @Id
+ 
     public String getNif() {
         return nif;
     }
@@ -102,7 +99,7 @@ public class Persona implements Serializable {
         this.fechaNacimiento = fechaNacimiento;
     }
 
-    @OneToMany
+
     public HashSet<Coche> getMisCoches() {
         return misCoches;
     }

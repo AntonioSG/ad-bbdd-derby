@@ -9,15 +9,11 @@ import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Objects;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.ManyToOne;
 
 /**
  *
  * @author asillero
  */
-@Entity
 public class Coche implements Serializable {
 
     private String matricula;
@@ -41,7 +37,6 @@ public class Coche implements Serializable {
     public Coche() {
     }
 
-    @Id
     public String getMatricula() {
         return matricula;
     }
@@ -69,7 +64,6 @@ public class Coche implements Serializable {
         this.modelo = modelo;
     }
 
-    @ManyToOne
     public Persona getPropietario() {
         return propietario;
     }

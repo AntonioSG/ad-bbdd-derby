@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Nov 21 00:18:04 CET 2017:
+ Iniciando instancia a816c00e-015f-dbb9-717f-0000032c7b30 de Derby, versión The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): 
+en el directorio de base de datos C:\Users\Administrador\Documents\NetBeansProjects\ad-bbdd-derby\parking con el cargador de clases sun.misc.Launcher$AppClassLoader@2ff4acd0
+Cargado desde file:/C:/Program%20Files/Java/jdk1.8.0_141/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_141-b15
+user.dir=C:\Users\Administrador\Documents\NetBeansProjects\ad-bbdd-derby
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Nov 21 00:18:05 CET 2017:
+Cerrando la instancia a816c00e-015f-dbb9-717f-0000032c7b30 en el directorio de base de datos C:\Users\Administrador\Documents\NetBeansProjects\ad-bbdd-derby\parking con cargador de clases sun.misc.Launcher$AppClassLoader@2ff4acd0

@@ -1,0 +1,56 @@
+{
+   "parking" : {
+      "persona" : [ {
+         "apellido1" : "tres",
+         "apellido2" : "11111",
+         "fecha-nacimiento" : "1980-11-15T11:51:41.064+01:00",
+         "coche" : [ {
+            "matricula" : "55555ckk",
+            "marca" : "coche",
+            "modelo" : "cinco",
+            "color" : "1111",
+            "fecha-matricula" : "1980-11-15T11:51:41.064+01:00"
+         }, {
+            "matricula" : "44444ckk",
+            "marca" : "coche",
+            "modelo" : "cuatro",
+            "color" : "1111",
+            "fecha-matricula" : "1980-11-15T11:51:41.064+01:00"
+         } ],
+         "nif" : "22222222K",
+         "nombre" : "Persona"
+      }, {
+         "apellido1" : "dos",
+         "apellido2" : "11111",
+         "fecha-nacimiento" : "1980-11-15T11:51:41.064+01:00",
+         "coche" : [ {
+            "matricula" : "11111ckk",
+            "marca" : "coche",
+            "modelo" : "dos",
+            "color" : "1111",
+            "fecha-matricula" : "1980-11-15T11:51:41.064+01:00"
+         } ],
+         "nif" : "11111111K",
+         "nombre" : "Persona"
+      } ],
+      "coche" : [ {
+         "matricula" : "11111ckk",
+         "marca" : "coche",
+         "modelo" : "dos",
+         "color" : "1111",
+         "fecha-matricula" : "1980-11-15T11:51:41.064+01:00"
+      }, {
+         "matricula" : "55555ckk",
+         "marca" : "coche",
+         "modelo" : "cinco",
+         "color" : "1111",
+         "fecha-matricula" : "1980-11-15T11:51:41.064+01:00"
+      }, {
+         "matricula" : "44444ckk",
+         "marca" : "coche",
+         "modelo" : "cuatro",
+         "color" : "1111",
+         "fecha-matricula" : "1980-11-15T11:51:41.064+01:00"
+      } ]
+   }
+}
